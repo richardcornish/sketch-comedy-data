@@ -48,8 +48,8 @@ Inside Amy Schumer:
 
 Key & Peele:
 
-- "[Subtitute Teacher](https://www.youtube.com/watch?v=Dd7FixvoKBw)" is Key & Peele's most popular video with 113M views. That's *14 times* more popular than "Milk Milk Lemonade." Despite Amy's fame and promotion the last few years, it takes the combined views of Amy's top *66 videos**, or her top 40% , to beat the single top Key & Peele video. That's incredible.
+- "[Subtitute Teacher](https://www.youtube.com/watch?v=Dd7FixvoKBw)" is Key & Peele's most popular video with 113M views. That's *14 times* more popular than "Milk Milk Lemonade." Despite Amy's fame and promotion the last few years, it takes the combined views of Amy's top *66 videos*, or her top 40% , to beat the single top Key & Peele video. That's incredible.
 - Key & Peele's top 88 videos all beat Amy's top single video. It isn't until video 89 does the view count start dipping below what Amy's best does.
-- Mr. Nostrand's Big Mistake is their fifth most popular. OK, so maybe fart jokes do work.
+- "[Mr. Nostrand's Big Mistake](https://www.youtube.com/watch?v=18t5V3gvfa4)" is their fifth most popular. OK, so maybe fart jokes do work.
 
 It's also worth stating that as episodes and seasons of each show progressed, the newer videos are obviously online for less time, making it more prone to have fewer views. However, Key & Peele ended at the end of 2015, and at the time of this writing the last season of Inside Amy Schumer was a year ago and is on indefinite hiatus.
