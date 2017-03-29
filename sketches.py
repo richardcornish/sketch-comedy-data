@@ -37,9 +37,7 @@ def get_video_items(playlist_id, page_token=None, video_items=[]):
 def get_video_stats(video_items, iterator=0):
     start = iterator * 50
     end = start + 50
-    ids = []
-    for item in video_items[start:end]:
-        ids.append(item['id'])
+    ids = [item['id'] for item in video_items[start:end]]
     params = {
         'key': YOUTUBE_API_KEY,
         'part': 'statistics',
