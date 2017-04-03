@@ -1,4 +1,4 @@
-# Comedy Central sketch data
+# Crunching sketch comedy data
 
 I was curious about which sketches on Comedy Central were funniest, so I wrote a basic script to download data from the YouTube Data API.
 
